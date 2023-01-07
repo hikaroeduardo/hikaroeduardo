@@ -10,8 +10,9 @@
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="css3" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div> <br>
 
 Formado em Gestão da Tecnologia da Informação, sempre fui apaixonado por tecnologia. 
 
-Atualmente trabalho como Assistente de TI na empresa Assaí Atacadista, porém, estou em processo de migração de carreira para a área de desenvolvimento web, constantemente estudando tecnologias como HTML5, CSS3 e JavaScrip, sempre em busca de evolução.
+Atualmente trabalho como Assistente de TI na empresa Assaí Atacadista, porém, estou em processo de migração de carreira para a área de desenvolvimento web, constantemente estudando tecnologias como HTML5, CSS3, JavaScrip e React, sempre em busca de evolução.
